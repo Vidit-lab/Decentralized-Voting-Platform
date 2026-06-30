@@ -6,7 +6,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-decentralized_voting_platform = "6FuguLE3hjvTaexSGjN2GtGPX9jxddvmBXWj5ddBBWqp"
+voting = "6FuguLE3hjvTaexSGjN2GtGPX9jxddvmBXWj5ddBBWqp"
 
 [provider]
 cluster = "localnet"
